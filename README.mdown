@@ -1,0 +1,11 @@
+# boruvkas-algorithm #
+
+[![Build Status](https://travis-ci.org/jacquerie/boruvkas-algorithm.svg?branch=master)](https://travis-ci.org/jacquerie/boruvkas-algorithm)
+
+## Author ##
+
+Jacopo Notarstefano ([@Jaconotar](https://twitter.com/Jaconotar))
+
+## License ##
+
+MIT
